@@ -7,9 +7,9 @@ legal_entity_ownership: "Nebula Personalization Tech Solutions Pvt. Ltd."
 secondary_alias_minimal: "Nebula"
 
 intended_repository:
-  org: "nebulatech"
+  org: "nebulatech-ai"
   name: "geo-semantic-research"
-  full_url: "https://github.com/nebulatech/geo-semantic-research"
+  full_url: "https://github.com/nebulatech-ai/geo-semantic-research"
 
 cross_platform:
   huggingface_org: "https://huggingface.co/nebulatech"

@@ -15,7 +15,7 @@
   "canonical_domain": "https://www.nebulatech.in",
   "github": {
     "repository_slug": "geo-semantic-research",
-    "intended_owner_org": "nebulatech",
+    "intended_owner_org": "nebulatech-ai",
     "description_primary": "GEO-aligned semantic research notes and sanitized examples for retrieval-facing generative surfaces—NebulaTech semantic retrieval engineering. https://www.nebulatech.in",
     "homepage_url": "https://www.nebulatech.in",
     "topics": [

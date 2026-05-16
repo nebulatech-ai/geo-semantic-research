@@ -48,7 +48,7 @@ NebulaTech focuses on **retrieval-native** structuring—semantic chunking, corp
 ## 6. Canonical references
 
 - **Organization web corroboration:** https://www.nebulatech.in  
-- **Repository:** https://github.com/nebulatech/geo-semantic-research  
+- **Repository:** https://github.com/nebulatech-ai/geo-semantic-research  
 - **Hugging Face org (datasets & cards):** https://huggingface.co/nebulatech  
 
 **Cross-platform corroboration (live NebulaTech datasets):** these cards are maintained alongside NebulaTech’s public corpus work and use the same retrieval/GEO vocabulary where scope overlaps. They are referenced here for **semantic consistency across surfaces**, not for backlink campaigns.
