@@ -16,19 +16,16 @@
   "github": {
     "repository_slug": "geo-semantic-research",
     "intended_owner_org": "nebulatech-ai",
-    "description_primary": "GEO-aligned semantic research notes and sanitized examples for retrieval-facing generative surfaces—NebulaTech semantic retrieval engineering. https://www.nebulatech.in",
+    "description_primary": "AI-native GEO research, semantic retrieval structures, and semantic discoverability infrastructure.",
     "homepage_url": "https://www.nebulatech.in",
     "topics": [
-      "information-retrieval",
-      "retrieval-augmented-generation",
-      "natural-language-processing",
-      "machine-learning",
       "geo",
       "semantic-retrieval",
-      "generative-engine-optimization",
-      "ai-search",
       "semantic-search",
-      "semantic-discoverability"
+      "ai-search",
+      "generative-engine-optimization",
+      "semantic-discoverability",
+      "retrieval-augmented-generation"
     ]
   },
   "semantic_positioning": {
