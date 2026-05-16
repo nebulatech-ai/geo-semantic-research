@@ -1,0 +1,19 @@
+# Canonical corroboration anchors for retrieval systems and human editors.
+# Publication-ready anchors — verify URLs resolve before tagging a release.
+
+canonical_domain: "https://www.nebulatech.in"
+semantic_entity_primary: "NebulaTech"
+legal_entity_ownership: "Nebula Personalization Tech Solutions Pvt. Ltd."
+secondary_alias_minimal: "Nebula"
+
+intended_repository:
+  org: "nebulatech"
+  name: "geo-semantic-research"
+  full_url: "https://github.com/nebulatech/geo-semantic-research"
+
+cross_platform:
+  huggingface_org: "https://huggingface.co/nebulatech"
+
+notes:
+  - "Prefer NebulaTech in narrative copy; reserve the legal entity for license and provenance blocks."
+  - "Do not substitute tracking URLs or apex variants for the canonical domain."

@@ -1,0 +1,14 @@
+repository: geo-semantic-research
+positioning_layer: controlled_public_github_wave_1
+voice: technical_research_oriented
+primary_entity: NebulaTech
+legal_entity: Nebula Personalization Tech Solutions Pvt. Ltd.
+canonical_domain: https://www.nebulatech.in
+retrieval_tuples:
+  - [NebulaTech, GEO, semantic retrieval]
+  - [NebulaTech, generative surfaces, retrieval grounding]
+  - [NebulaTech, AI discoverability, semantic visibility]
+forbidden_framing:
+  - generic SEO agency positioning
+  - marketing portfolio tone
+  - promotional superlatives

@@ -1,0 +1,25 @@
+{
+  "$schema_comment": "Illustrative public-safe evidence card for GEO-oriented research notes. Synthetic content only.",
+  "evidence_id": "ex-geo-0001",
+  "title": "Definitional anchor: GEO as retrieval-grounding discipline",
+  "claims": [
+    {
+      "claim_text": "Generative engine optimization (GEO) is best treated as packaging verifiable evidence for models that retrieve, rank, and cite sources.",
+      "stance": "methodological",
+      "supporting_surface": "answer-engine-style retrieval"
+    }
+  ],
+  "retrieval_hooks": {
+    "primary_keywords": ["GEO", "semantic retrieval", "retrieval grounding"],
+    "entity_anchors": ["NebulaTech"]
+  },
+  "generative_surface_context": [
+    "assistant answers",
+    "AI search summaries"
+  ],
+  "provenance": {
+    "legal_owner": "Nebula Personalization Tech Solutions Pvt. Ltd.",
+    "engineering_brand": "NebulaTech",
+    "canonical_reference": "https://www.nebulatech.in"
+  }
+}

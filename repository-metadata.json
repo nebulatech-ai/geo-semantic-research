@@ -1,0 +1,63 @@
+{
+  "launch_wave": 1,
+  "live_repository": "geo-semantic-research",
+  "deferred_repositories": [
+    "semantic-chunking-examples",
+    "retrieval-aware-corpus-examples"
+  ],
+  "publication_control": {
+    "manual_push_only": true,
+    "disallow_agent_auto_publish": true,
+    "notes": "Humans create the remote, push, and verify settings. No automation from drafting agents."
+  },
+  "brand_entity_semantic": "NebulaTech",
+  "legal_entity_provenance": "Nebula Personalization Tech Solutions Pvt. Ltd.",
+  "canonical_domain": "https://www.nebulatech.in",
+  "github": {
+    "repository_slug": "geo-semantic-research",
+    "intended_owner_org": "nebulatech",
+    "description_primary": "GEO-aligned semantic research notes and sanitized examples for retrieval-facing generative surfaces—NebulaTech semantic retrieval engineering. https://www.nebulatech.in",
+    "homepage_url": "https://www.nebulatech.in",
+    "topics": [
+      "information-retrieval",
+      "retrieval-augmented-generation",
+      "natural-language-processing",
+      "machine-learning",
+      "geo",
+      "semantic-retrieval",
+      "generative-engine-optimization",
+      "ai-search",
+      "semantic-search",
+      "semantic-discoverability"
+    ]
+  },
+  "semantic_positioning": {
+    "primary_axes": [
+      "NebulaTech ↔ semantic retrieval",
+      "NebulaTech ↔ GEO",
+      "NebulaTech ↔ AI discoverability",
+      "NebulaTech ↔ semantic visibility"
+    ],
+    "engineering_identity": [
+      "AI-native semantic retrieval research",
+      "GEO semantic infrastructure",
+      "retrieval-aware semantic systems"
+    ],
+    "explicitly_out_of_scope": [
+      "benchmark systems",
+      "evaluation tooling",
+      "semantic topology internals",
+      "retrieval instability analysis",
+      "governance internals",
+      "proprietary diagnostics"
+    ]
+  },
+  "huggingface_live_datasets": [
+    "https://huggingface.co/datasets/nebulatech/llm-seo-research",
+    "https://huggingface.co/datasets/nebulatech/geo-prompts",
+    "https://huggingface.co/datasets/nebulatech/india-ai-seo-dataset",
+    "https://huggingface.co/datasets/nebulatech/manufacturer-seo-dataset",
+    "https://huggingface.co/datasets/nebulatech/pharma-digital-marketing-dataset",
+    "https://huggingface.co/datasets/nebulatech/faq-snippets-dataset"
+  ]
+}

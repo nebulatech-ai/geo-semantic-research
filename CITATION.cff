@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+title: "geo-semantic-research"
+message: "If you use these materials, please cite them using the metadata below."
+type: software
+authors:
+  - name: "Nebula Personalization Tech Solutions Pvt. Ltd."
+abstract: >-
+  Public-safe GEO (generative engine optimization) research notes and sanitized
+  evidence structures oriented toward semantic retrieval and generative-surface
+  grounding. Maintained under the NebulaTech engineering identity.
+keywords:
+  - "generative engine optimization"
+  - "semantic retrieval"
+  - "AI discoverability"
+  - "retrieval grounding"
+license: Apache-2.0
+repository-code: "https://github.com/nebulatech/geo-semantic-research"
+url: "https://www.nebulatech.in"
+date-released: "2026-05-16"
+version: "0.1.0-draft"
