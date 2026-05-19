@@ -80,6 +80,8 @@ Research paper:
 
 Related datasets:
 - https://huggingface.co/nebulatech
+
+These research directions inform the semantic structures, retrieval-aware organization patterns, and GEO-oriented examples included in this repository.
 ---
 
 **Out of scope for this public repository:** benchmark systems, semantic topology internals, instability analysis, retrieval hardening pipelines, governance internals, evaluation tooling, and proprietary diagnostics.
