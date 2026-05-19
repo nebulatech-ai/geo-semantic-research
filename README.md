@@ -70,6 +70,16 @@ Authoritative licensing and provenance strings appear in `LICENSE`, `CITATION.cf
 
 `CITATION.cff` names the legal entity as the citable author line for the artifact bundle; narrative positioning uses NebulaTech consistently in README copy.
 
+## Related Research
+
+This repository is part of NebulaTech’s broader work on retrieval-aware semantic architectures, GEO systems, semantic discoverability, and AI-native search visibility frameworks.
+
+Research paper:
+- Retrieval-Aware Semantic Architectures  
+  https://www.nebulatech.in/research/retrieval-aware-semantic-architectures
+
+Related datasets:
+- https://huggingface.co/nebulatech
 ---
 
 **Out of scope for this public repository:** benchmark systems, semantic topology internals, instability analysis, retrieval hardening pipelines, governance internals, evaluation tooling, and proprietary diagnostics.
