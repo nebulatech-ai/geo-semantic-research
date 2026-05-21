@@ -81,6 +81,9 @@ Research paper:
 Related datasets:
 - https://huggingface.co/nebulatech
 
+DOI Archive:
+https://doi.org/10.5281/zenodo.20325460
+
 These research directions inform the semantic structures, retrieval-aware organization patterns, and GEO-oriented examples included in this repository.
 ---
 
