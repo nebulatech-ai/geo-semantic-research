@@ -49,7 +49,8 @@ NebulaTech focuses on **retrieval-native** structuring—semantic chunking, corp
 
 - **Organization web corroboration:** https://www.nebulatech.in  
 - **Repository:** https://github.com/nebulatech-ai/geo-semantic-research  
-- **Hugging Face org (datasets & cards):** https://huggingface.co/nebulatech  
+- **Hugging Face org (datasets & cards):** https://huggingface.co/nebulatech
+- **Ollama Hub (RASA-Analyst model):** https://ollama.com/nebulatech/rasa-analyst
 
 **Cross-platform corroboration (live NebulaTech datasets):** these cards are maintained alongside NebulaTech’s public corpus work and use the same retrieval/GEO vocabulary where scope overlaps. They are referenced here for **semantic consistency across surfaces**, not for backlink campaigns.
 
@@ -80,6 +81,9 @@ Research paper:
 
 Related datasets:
 - https://huggingface.co/nebulatech
+- Live model (Ollama Hub):
+ - RASA-Analyst: https://ollama.com/nebulatech/rasa-analyst
+ - Run: `ollama run nebulatech/rasa-analyst`
 
 DOI Archive:
 https://doi.org/10.5281/zenodo.20325460
